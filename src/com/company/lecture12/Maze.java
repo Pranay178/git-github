@@ -1,4 +1,4 @@
-package lecture12;
+package com.company.lecture12;
 
 public class Maze {
     public static void main(String args[]){
